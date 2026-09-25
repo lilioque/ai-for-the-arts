@@ -6,3 +6,7 @@ This repository is for the work on the Lab portfolio for the course. My hope is 
 - learn the basics of AI
 - reflect on AI implications
 - explore ways to use AI for the Arts and Humanities
+
+
+Next step in the Lab Book:
+Introducing GitHub Codespaces (p. 8)
