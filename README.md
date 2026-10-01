@@ -8,5 +8,5 @@ This repository is for the work on the Lab portfolio for the course. My hope is 
 - explore ways to use AI for the Arts and Humanities
 
 
-Next step in the Lab Book:
-Introducing GitHub Codespaces (p. 8)
+## Week 2
+- GitHub Codespaces activity completed
