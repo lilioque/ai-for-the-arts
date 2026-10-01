@@ -10,3 +10,6 @@ This repository is for the work on the Lab portfolio for the course. My hope is 
 
 ## Week 2
 - GitHub Codespaces activity completed
+- Microsoft Copilot activity done
+
+next step: Part 2: Understanding Code (Weeks 3 - 5 ) (p. 17)
